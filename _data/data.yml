@@ -57,7 +57,8 @@ experiences:
       time: May 2021 - Present
       company: Red Hat
       details: |
-        Just started this position, will fill out relevant details as the role progresses.
+        Performed performance analysis work on a feature in OpenShift Container Storage v4.8.
+        Debugged tooling issues with Grafana dashboard, became familiar with ElasticSearch, AWS OpenShift installation, and Prometheus.
     - role: Lead Developer
       time: Dec. 2020 - Present
       company: Engaging Computer Group, University of Massachusetts, Lowell
@@ -85,20 +86,20 @@ experiences:
       time: May 2020 - May 2021
       company: IrisBooth
       details: |
-        Developed new features and impelmented web page's new design.
+        Developed new features and implemented web page's new design.
 
-        Utelized various AWS services to ensure security of company data and
-        infastructure, as well as to automate the application deployment process.
+        Utilized various AWS services to ensure security of company data and
+        infrastructure, as well as to automate the application deployment process.
 
     - role: IT Consultant
-      time: Mar 2019 - Present
+      time: Mar 2019 - Jun 2021
       company: Community Partners for Change, Inc
       details: |
-          Consulted business on moving emails to local infastructure
+          Consulted business on moving emails to local infrastructure
           and transitioning from all-paper document system to a locally
           hosted file storage solution in compliance with HIPAA.
 
-          Researched and specified infastructure for purchase, expected
+          Researched and specified infrastructure for purchase, expected
           to evolve into SysAdmin position once funding is secured.
 projects:
     title: Projects
