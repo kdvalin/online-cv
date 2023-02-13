@@ -50,17 +50,26 @@ career-profile:
 education:
     - degree: Bachelor's Degree in Computer Science with Robotics Minor
       university: University of Massachusetts, Lowell
-      time: 2018 - 2022 (anticipated)
+      time: 2018 - 2022
         
 experiences:
+    - role: Performance and Scale Software Engineer
+      time: July 2022 - Present
+      company: Red Hat
+      details: |
+        Responsible to develop and execute test plans for projects, and deliver collateral to key stake-holders.
+        When existing tooling is lacking, new tools were created to facilitate easier testing.
+        Assist another team with long term test storage and integrate it with their existing tooling.
+
     - role: Performance and Scale Software Engineering Intern
-      time: May 2021 - Present
+      time: May 2021 - July 2022
       company: Red Hat
       details: |
         Performed performance analysis work on a feature in OpenShift Container Storage v4.8.
         Debugged tooling issues with Grafana dashboard, became familiar with ElasticSearch, AWS OpenShift installation, and Prometheus.
+
     - role: Lead Developer
-      time: Dec. 2020 - Present
+      time: Dec. 2020 - May 2022
       company: Engaging Computer Group, University of Massachusetts, Lowell
       details: |
         Lead developer for [MYR](https://learnmyr.org).
@@ -71,6 +80,7 @@ experiences:
         - Perform code review on team member's pull requests
         - Plan new versions and release dates
         - Onboard new team members and answer questions in Slack.
+
     - role: Full Stack Developer
       time: Sep 2019 - Dec 2020
       company: Engaging Computer Group, University of Massachusetts, Lowell
@@ -82,6 +92,7 @@ experiences:
           - Debug and create fixes for MYR.
           - Develop new features from concept to pull request
           - Migrated application from Google Firebase's database to MongoDB
+
     - role: Full Stack Developer
       time: May 2020 - May 2021
       company: IrisBooth
@@ -104,18 +115,7 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: PolyChat
-        tagline: "A lightweight, cross platform, multi protocol (Discord, Slack, etc) IM client"
-      
-      - title: DLManager
-        link: https://github.com/polysoft1/DLManager
-        tagline: A C++ dynamic library loader, complete with class management and casts to std::function types.
-
-      - title: LibMatrix-client
-        link: https://github.com/polysoft1/libmatrix-client
-        tagline: A lightweight C++ client for the matrix communication protocol.
-      
-      - title: Mythic Table (Volunteer Developer)
+      - title: Mythic Table (Volunteer Technology Lead)
         link: https://mythictable.com
         tagline: An open source VTT for RPG systems (D&D 5e, Pathfinder, etc)
 
@@ -135,5 +135,9 @@ skills:
       - name: Docker
       - name: Linux
       - name: BASH
+      - name: Kubernetes
+      - name: OpenShift
+      - name: Prometheus
+      - name: Grafana
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
